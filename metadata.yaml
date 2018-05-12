@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40075'
     url: http://www.gutenberg.org/2009/agents/40075
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39546#Wit-and-Humor-of-the-BibleA-Literary-Study
 gutenberg_issued: '2012-04-27'
 gutenberg_type: Text
 identifiers:
