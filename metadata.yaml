@@ -1,0 +1,27 @@
+_repo: Wit-and-Humor-of-the-BibleA-Literary-Study_39546
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39546-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Shutter, Marion D. (Marion Daniel)
+    birthdate: 1853
+    deathdate: 1939
+    gutenberg_agent_id: '40075'
+    url: http://www.gutenberg.org/2009/agents/40075
+description: ''
+gutenberg_issued: '2012-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39546'
+  lccn: '12038723'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible as literature'
+title: 'Wit and Humor of the Bible: A Literary Study'
+url: http://www.gutenberg.org/ebooks/39546
